@@ -1,9 +1,11 @@
 /**
  * Author: Hao Hoang
+ * Contact: haohoangofficial@gmail.com
  * Sheet url template: https://docs.google.com/spreadsheets/d/1KAiaqei2rVLnE98I9NVyqqNTmNXG9FRnJ3XJzLmrlas/edit?usp=sharing
  * Library required bellow
  * AlaSQL library ID: 1XWR3NzQW6fINaIaROhzsxXqRREfKXAdbKoATNbpygoune43oCmez1N8U
  * How to use this library: https://github.com/contributorpw/alasqlgs
+ * 
  */
 const alaSQL = AlaSQLGS.load()
 const sheet_id = '1KAiaqei2rVLnE98I9NVyqqNTmNXG9FRnJ3XJzLmrlas' // replace your sheet ID
